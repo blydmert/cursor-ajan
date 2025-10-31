@@ -1,0 +1,2 @@
+# cursor-ajan
+cursor
