@@ -1,0 +1,7 @@
+# Alembic Migrations
+# Veritaban? ?ema de?i?iklikleri i?in migration dosyalar? burada olacak
+
+# ?lk migration'? olu?turmak i?in:
+# alembic init alembic
+# alembic revision --autogenerate -m "Initial migration"
+# alembic upgrade head
